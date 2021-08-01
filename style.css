@@ -1,3 +1,39 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(102, 47, 134);
+  color:aliceblue;
+  font-family: Impact, Charcoal, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #F7F7F7;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+
+
+  
+
 }
+
+h1, caption {
+  text-align: center;
+}
+
+
+table{
+  border: 3px solid #ffc702;
+  align-content: center;
+  border-collapse : collapse;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+
+}
+
+
+ 
+
+
